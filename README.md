@@ -1,4 +1,4 @@
-
+## Cybersecurity & Forensics | BCA @ BBDU | Exploring vulnerabilities & threat detection
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanji_singhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-singh-1878b6223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.aditya932005@gmail.com) 
 
